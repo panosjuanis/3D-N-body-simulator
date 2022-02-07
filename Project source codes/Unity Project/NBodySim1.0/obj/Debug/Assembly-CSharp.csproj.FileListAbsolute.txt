@@ -1,0 +1,2 @@
+C:\Users\Chaotic Neutral\Dropbox\UPNA\N-Body Project\Unity Prototypes\NBodySim1.0\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Chaotic Neutral\Dropbox\UPNA\N-Body Project\Unity Prototypes\NBodySim1.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

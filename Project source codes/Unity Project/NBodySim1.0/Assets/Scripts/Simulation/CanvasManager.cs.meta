@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 88e58d01b67c3ae41a96740068fab7d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 2736428079320520082, guid: a15ca1c94de859341b1150a5e943068b,
+      type: 3}
+  - simManager: {instanceID: 0}
+  - GSlider: {instanceID: 0}
+  - dtSlider: {instanceID: 0}
+  - fpsSlider: {instanceID: 0}
+  - GText: {instanceID: 0}
+  - dtText: {instanceID: 0}
+  - fpsText: {instanceID: 0}
+  - simTimeText: {instanceID: 0}
+  - realTimeText: {instanceID: 0}
+  - nFramesText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

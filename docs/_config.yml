@@ -3,12 +3,11 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # vars
-title: [The title of your site]
-description: [A short description of your site's purpose]
-show_downloads: [true]
+title: 3D N-Body Simulator
+description: A short description of your site's purpose
+show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
 
 github:
   zip_url: https://github.com/panosjuanis/3D-N-body-simulator/releases/download/untagged-a92c770b3e55d991af0e/3D.N-Body.Simulator.installer.exe
 
-  

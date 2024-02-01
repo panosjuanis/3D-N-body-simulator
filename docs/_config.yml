@@ -4,7 +4,7 @@
 
 # vars
 title: 3D N-Body Simulator
-description: A short description of your site's purpose
+description: An interactive gravity simulator for the N-Body problem!
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
 

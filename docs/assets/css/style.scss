@@ -40,7 +40,7 @@ b, strong { font-weight: bold; }
 dfn { font-style: italic; }
 
 /** Address variable `h1` font-size and margin within `section` and `article` contexts in Firefox 4+, Safari, and Chrome. */
-h1 { font-size: 2em; margin: 0.67em 0; }
+h1 { font-size: 2em; margin: 0.67em 0;}
 
 /** Address styling not present in IE 8/9. */
 mark { background: #ff0; color: #000; }
@@ -272,7 +272,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: black; text-align: center; background-color: #159957;}
+.page-header { color: white; text-align: center; background-image: url('../img/galaxia.png');}
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
